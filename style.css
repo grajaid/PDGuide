@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: #ffffff; /* White background for the header */
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* More pronounced shadow */
     border-bottom: none; /* Remove any bottom border */
